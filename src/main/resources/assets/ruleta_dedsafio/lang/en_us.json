@@ -1,0 +1,9 @@
+{
+ "block.ruleta_dedsafio.ruleta_altar": "Altar de la Ruleta",
+ "block.ruleta_dedsafio.ruleta_trigger": "Activador invisible de la Ruleta",
+ "item.ruleta_dedsafio.ruleta_llave": "Llave de la Ruleta",
+ "itemGroup.ruleta_dedsafio": "Ruleta DEDsafío",
+ "message.ruleta_dedsafio.need_key": "Necesitas la Llave de la Ruleta en la mano.",
+ "message.ruleta_dedsafio.busy": "La ruleta ya está activa.",
+ "message.ruleta_dedsafio.result": "¡La ruleta se detuvo en %s!"
+}
